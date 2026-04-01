@@ -11,7 +11,8 @@ interprétations et applications pratiques en Python. Chaque concept est défini
 - Mesures de dispersion (variance, écart-type, IQR, CV, étendue)
 - Détection des outliers
 - Interprétation des résultats sur la variable montant_panier
-- Forme de la distribution
+- Forme de la distribution (asymétrie et aplatissement)
+- Visualisations (histoghramme, KDE, boxplot) 
 
 ## Dataset
 15 000 transactions e-commerce avec les variables suivantes : données clients (âge, sexe, revenu), comportement d'achat 
